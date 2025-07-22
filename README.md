@@ -17,13 +17,13 @@
 
 ## 💫 About Me
 
-Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human ✨
+Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human.
 I specialize in data analysis, visual storytelling, and predictive modeling.
 My goal is to blend economics, design, and data science to turn raw data into meaningful, actionable insights.
 
 ---
 
-## 🧁 Skills & Tools
+## ✨ Skills & Tools
 
 ```bash
 # 🖥️ Programming Languages
