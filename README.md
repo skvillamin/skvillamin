@@ -48,13 +48,17 @@ My goal is to blend economics, design, and data science to turn raw data into me
 ## 📌 Featured Projects
 
 ### 🎀 [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)  
-Clustering models (K-Means, Hierarchical) + Tableau dashboard to group mall customers by spending behavior.
+Developed clustering model (K-Means, Hierarchical) to group mall customers by spending behavior; visualized insights in
+Tableau to inform targeted marketing.
+
 
 ### 🌿 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)  
-Biometric data analysis (ECG, brainwaves) on gamified surveys. Ranked **Top 10%** for data storytelling.
+Analyzed biometric data (ECG, brain waves) across two user groups; ranked Top 10% for data
+visualization & clarity.
 
-### 🍓 [Airbnb Price Prediction](https://www.kaggle.com/competitions/ucsd-winter-2025-dsc-148/rules)  
-Improved RMSE by 21% with ensemble models + engineered features. Ranked **7th/109**.
+### 🍓 [Airbnb Price Prediction]([https://www.kaggle.com/competitions/ucsd-winter-2025-dsc-148/rules](https://github.com/skvillamin/airbnb-prices/tree/main))  
+Built a pipeline to predict Airbnb prices in NYC; improved RMSE by 21% using engineered features
+and ensemble models. Ranked 7/109
 
 👉 [See more projects here](https://skvillamin.github.io/portfolio/projects/index.html)
 
