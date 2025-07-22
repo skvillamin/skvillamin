@@ -3,7 +3,7 @@
 
 <div align="left">
 
-<h1 align= "center"> 🌸 Katelyn Villamin </h1>
+## 🌸 Katelyn Villamin 
 
 **she/her** • 🎓 Economics + Data Science @ UC San Diego  • 📍 Metro Manila, Philippines
 
@@ -11,38 +11,52 @@ Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel mor
 I specialize in data analysis, visual storytelling, and predictive modeling.
 My goal is to blend economics, design, and data science to turn raw data into meaningful, actionable insights.
 
+<h3>👋🏻 Connect with Me</h3>
+
+  <a href="mailto:work.skvillamin@gmail.com">Email</a> •
+  <a href="https://skvillamin.github.io/portfolio">Portfolio</a> •
+  <a href="https://linkedin.com/in/skvillamin">LinkedIn</a> •
+  <a href="https://github.com/skvillamin">GitHub</a>
+</p>
+</div>
+
+&ensp;&ensp;
+---
 
 ### ✨ Skills & Tools
 
-```bash
-# 🌸 Languages & Tools
+- **Languages & Tools:**
 Python • SQL • JavaScript (D3.js)
 Tableau • Jupyter • Git • Excel • HTML/CSS
 
-# 🌿 Concepts
+- **Concepts:**
 EDA • Clustering • Predictive Modeling • Visualization
 
-# 🗣️ Languages
+- **Languages:**
 English • Filipino • Chinese • Korean
 
-```
+&ensp;&ensp;
 ### 📌 Featured Projects
 
 **🛍️ [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)**  
+
 Developed clustering model (K-Means) to group mall customers by spending behavior; visualized insights in
 Tableau to inform targeted marketing.
 
 
 **🧠 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)**
+
 Analyzed biometric data (ECG, brain waves) across two user groups; ranked Top 10% for data
 visualization & clarity.
 
 **🏠 [Airbnb Price Prediction](https://github.com/skvillamin/airbnb-prices/tree/main)**  
+
 Built a pipeline to predict Airbnb prices in NYC; improved RMSE by 21% using engineered features
 and ensemble models. Ranked 7/109
 
-👉 [See more projects here](https://skvillamin.github.io/portfolio/projects/index.html)
+[See more projects here](https://skvillamin.github.io/portfolio/projects/index.html)
 
+&ensp;&ensp;
 ### 🌱 GitHub Stats
 <p align="center">
   <img 
@@ -65,6 +79,7 @@ and ensemble models. Ranked 7/109
     style="margin: 20px;" 
   />
 </p>
+&ensp;&ensp;
 
 ### 🐍 My Contributions
 
@@ -76,7 +91,7 @@ and ensemble models. Ranked 7/109
   </picture>
 </div>
 
----
+&ensp;&ensp;
 
 ### 🍵 When I'm Not Coding
 
@@ -84,11 +99,6 @@ and ensemble models. Ranked 7/109
 🎧 Singing, piano, and K-pop  
 ✍️ Journaling & language learning (中文, 한국어)
 
-### Connect with Me
-[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ffe4e1?style=flat-square&logo=notion&logoColor=white)](https://skvillamin.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c1e1c1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/skvillamin)
-[![GitHub](https://img.shields.io/badge/-GitHub-eac4d5?style=flat-square&logo=github&logoColor=white)](https://github.com/skvillamin)
 
 <div align="center">
 
