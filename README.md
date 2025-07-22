@@ -56,7 +56,7 @@ Tableau to inform targeted marketing.
 Analyzed biometric data (ECG, brain waves) across two user groups; ranked Top 10% for data
 visualization & clarity.
 
-### 🍓 [Airbnb Price Prediction]([https://www.kaggle.com/competitions/ucsd-winter-2025-dsc-148/rules](https://github.com/skvillamin/airbnb-prices/tree/main))  
+### 🍓 [Airbnb Price Prediction](https://github.com/skvillamin/airbnb-prices/tree/main)  
 Built a pipeline to predict Airbnb prices in NYC; improved RMSE by 21% using engineered features
 and ensemble models. Ranked 7/109
 
