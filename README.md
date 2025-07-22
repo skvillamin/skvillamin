@@ -1,50 +1,105 @@
+<!-- 🌸 Optional Banner -->
+<!-- ![header](https://i.imgur.com/kFf3XjN.png) -->
+
+<div align="left">
+
+# 🌸 Katelyn Villamin
+
+**she/her** ・ 🎓 B.A. Economics, Minor in Data Science  
+📍 UC San Diego Alumna ・ 🇵🇭 Filipino  
+
+[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ffe4e1?style=flat-square&logo=notion&logoColor=white)](https://skvillamin.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c1e1c1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/skvillamin)
+[![GitHub](https://img.shields.io/badge/-GitHub-eac4d5?style=flat-square&logo=github&logoColor=white)](https://github.com/skvillamin)
+
+---
+
+### 💫 About Me
+
+Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human ✨
+I specialize in data analysis, visual storytelling, and predictive modeling.
+My goal is to blend economics, design, and data science to turn raw data into meaningful, actionable insights.
+
+---
+
+### 🧁 Skills & Tools
+
+```bash
+# 🖥️ Programming Languages
+🌸 Python (Pandas, Scikit-learn, Seaborn)
+🌿 SQL, Java, JavaScript (D3.js)
+🌸 R, Stata
+
+# 🧰 Tools & Technologies
+🌸 Tableau, Jupyter Notebook, Git/GitHub
+🌿 Excel, HTML/CSS
+
+# 📊 Data Science Concepts
+🌸 EDA, Clustering, Predictive Modeling
+🌿 Data Cleaning, Visualization, Machine Learning
+
+# 🗣️ Languages Spoken
+🌿 English, Filipino, Chinese, Korean
+```
+
+---
+
+### 📌 Featured Projects
+
+#### 🎀 [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)  
+Clustering models (K-Means, Hierarchical) + Tableau dashboard to group mall customers by spending behavior.
+
+#### 🌿 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)  
+Biometric data analysis (ECG, brainwaves) on gamified surveys. Ranked **Top 10%** for data storytelling.
+
+#### 🍓 [Airbnb Price Prediction](https://www.kaggle.com/competitions/ucsd-winter-2025-dsc-148/rules)  
+Improved RMSE by 21% with ensemble models + engineered features. Ranked **7th/109**.
+
+👉 [See more projects here](https://skvillamin.github.io/portfolio/projects/index.html)
+
+---
+
+### 🌱 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=skvillamin&show_icons=true&theme=rose_pine&icon_color=FFC0CB&title_color=FFB6C1&text_color=92A1B2&bg_color=fffafa&border_color=ffe4e1" 
+    width="40%" 
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=skvillamin&layout=compact&theme=rose_pine&title_color=FFB6C1&text_color=92A1B2&bg_color=fffafa&border_color=ffe4e1" 
+    width="40%" 
+  />
+</p>
+
+
+<!-- 🌟 Contribution Streak Below -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=skvillamin&theme=rose_pine&hide_border=true&background=fffafa&dates=92A1B2&stroke=ffe4e1&ring=ffc0cb&fire=FFB6C1&currStreakLabel=FFB6C1&sideLabels=92A1B2" 
+    width="500" 
+    style="margin: 20px;" 
+  />
+</p>
+
+
+
+---
+
+### 🍵 When I'm Not Coding
+
+🎮 FPS & MOBA gamer (CS, Dota 2, Assassin’s Creed)  
+🎧 Singing, piano, and K-pop  
+✍️ Journaling & language learning (中文, 한국어)
+
+---
+
 <div align="center">
 
-<img src="https://capybara.lol/capybara-cute.gif" width="200"/>
 
-# 🌸 Katelyn Villamin 🌸  
-`She/Her` • ☕ Coding & Carbs Enthusiast • 📍 PH
+🌸・✿・🍃・❀・🌸・✿・🍃・❀・🌸・✿・🍃・❀
 
-✨ Economics x Data Science ✨  
-I love translating numbers into stories, with a sprinkle of design and a dash of cute!  
-Currently working on: [📊 Data Projects](#-my-projects) + [🍰 Recipe Zine for My Boyfriend](#-currently-cooking-up)
-
----
-
-### 🧁 About Me
-- 🎓 4th Year Economics Major @ UCSD  
-- 📊 Data Viz | Python | R | SQL | Web Dev  
-- 🐇 Dessert shop branding enthusiast  
-- 🛠️ Building projects that blend data + joy!
-
----
-
-### 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB)
-![R](https://img.shields.io/badge/-R-75AADB?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🌷 My Projects
-| 🌟 Project | 💡 Description |
-|-----------|----------------|
-| `📦 wealth-predictor` | Built ML models to predict household wealth from census survey data |
-| `🧁 bunny-bakeshop` | Logo + branding concept for a rabbit-themed dessert shop |
-| `📈 seabank-fraud-analysis` | Exploratory + rule-based analysis for transaction anomalies |
-| `🎮 sdg-edu-game` | Prototype of a game that teaches economic sustainability |
-
----
-
-### ☁️ Let's Connect!
-[![Gmail](https://img.shields.io/badge/-Email-FFB6C1?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFC0CB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skvillamin)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat-square&logo=notion&logoColor=white)](https://yourportfolio.link)
-
----
-
-💬 *“A girl should be two things: who and what she wants.”* – Coco Chanel
+</div>
 
 </div>
