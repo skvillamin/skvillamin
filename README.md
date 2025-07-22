@@ -15,7 +15,7 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
 Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human ✨
 I specialize in data analysis, visual storytelling, and predictive modeling.
@@ -23,7 +23,7 @@ My goal is to blend economics, design, and data science to turn raw data into me
 
 ---
 
-### 🧁 Skills & Tools
+## 🧁 Skills & Tools
 
 ```bash
 # 🖥️ Programming Languages
@@ -45,22 +45,22 @@ My goal is to blend economics, design, and data science to turn raw data into me
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🎀 [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)  
+### 🎀 [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)  
 Clustering models (K-Means, Hierarchical) + Tableau dashboard to group mall customers by spending behavior.
 
-#### 🌿 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)  
+### 🌿 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)  
 Biometric data analysis (ECG, brainwaves) on gamified surveys. Ranked **Top 10%** for data storytelling.
 
-#### 🍓 [Airbnb Price Prediction](https://www.kaggle.com/competitions/ucsd-winter-2025-dsc-148/rules)  
+### 🍓 [Airbnb Price Prediction](https://www.kaggle.com/competitions/ucsd-winter-2025-dsc-148/rules)  
 Improved RMSE by 21% with ensemble models + engineered features. Ranked **7th/109**.
 
 👉 [See more projects here](https://skvillamin.github.io/portfolio/projects/index.html)
 
 ---
 
-### 🌱 GitHub Stats
+## 🌱 GitHub Stats
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=skvillamin&show_icons=true&theme=rose_pine&icon_color=FFC0CB&title_color=FFB6C1&text_color=92A1B2&bg_color=fffafa&border_color=ffe4e1" 
@@ -87,7 +87,7 @@ Improved RMSE by 21% with ensemble models + engineered features. Ranked **7th/10
 
 ---
 
-### 🍵 When I'm Not Coding
+## 🍵 When I'm Not Coding
 
 🎮 FPS & MOBA gamer (CS, Dota 2, Assassin’s Creed)  
 🎧 Singing, piano, and K-pop  
