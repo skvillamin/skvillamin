@@ -30,7 +30,7 @@ Python • SQL (PostgreSQl, SQLite) • JavaScript (D3.js)
 Tableau • Jupyter • Git • Excel • HTML/CSS
 
 - **Concepts:**
-EDA • Clustering • Predictive Modeling • Visualization
+Exploratory Data Analysis (EDA) • Clustering • Predictive Modeling • Data Visualization • Machine Learning
 
 - **Languages:**
 English • Filipino • Chinese • Korean
