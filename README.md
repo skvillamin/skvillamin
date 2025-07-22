@@ -1,12 +1,12 @@
-<!-- 🌸 Optional Banner -->
+<!-- Optional Banner -->
 <!-- ![header](https://i.imgur.com/kFf3XjN.png) -->
 
 <div align="left">
 
 # 🌸 Katelyn Villamin
 
-**she/her** ・ 🎓 **B.A. Economics, Minor in Data Science Graduate  @ UC San Diego**
-・ 📍 **Metro Manila, Philippines**
+**she/her** ・ 🎓 Economics + Data Science @ UC San Diego  
+📍 Metro Manila, Philippines
 
 [![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ffe4e1?style=flat-square&logo=notion&logoColor=white)](https://skvillamin.github.io/portfolio)
@@ -17,34 +17,25 @@
 
 ## 💫 About Me
 
-Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human.
-I specialize in data analysis, visual storytelling, and predictive modeling.
-My goal is to blend economics, design, and data science to turn raw data into meaningful, actionable insights.
+Hi! I’m Katelyn — I love making data feel more human ✨  
+I specialize in **data analysis**, **visual storytelling**, and **predictive modeling**, with a focus on projects that bridge **economics**, **design**, and **data science**.
 
 ---
 
 ## ✨ Skills & Tools
 
 ```bash
-# 🖥️ Programming Languages
-🌸 Python (Pandas, Scikit-learn, Seaborn)
-🌿 SQL, Java, JavaScript (D3.js)
-🌸 R, Stata
+# 🌸 Languages & Tools
+Python • SQL • JavaScript (D3.js)
+Tableau • Jupyter • Git • Excel • HTML/CSS
 
-# 🧰 Tools & Technologies
-🌸 Tableau, Jupyter Notebook, Git/GitHub
-🌿 Excel, HTML/CSS
+# 🌿 Concepts
+EDA • Clustering • Predictive Modeling • Visualization
 
-# 📊 Data Science Concepts
-🌸 EDA, Clustering, Predictive Modeling
-🌿 Data Cleaning, Visualization, Machine Learning
+# 🗣️ Languages
+English • Filipino • Chinese • Korean
 
-# 🗣️ Languages Spoken
-🌿 English, Filipino, Chinese, Korean
 ```
-
----
-
 ## 📌 Featured Projects
 
 ### 🎀 [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)  
