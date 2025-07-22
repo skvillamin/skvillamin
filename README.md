@@ -26,7 +26,7 @@ My goal is to blend economics, design, and data science to turn raw data into me
 ### ✨ Skills & Tools
 
 - **Languages & Tools:**
-Python • SQL • JavaScript (D3.js)
+Python • SQL (PostgreSQl, SQLite) • JavaScript (D3.js)
 Tableau • Jupyter • Git • Excel • HTML/CSS
 
 - **Concepts:**
