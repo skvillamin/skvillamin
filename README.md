@@ -3,26 +3,16 @@
 
 <div align="left">
 
-# 🌸 Katelyn Villamin
+<h1 align= "center"> 🌸 Katelyn Villamin </h1>
 
-**she/her** ・ 🎓 Economics + Data Science @ UC San Diego  
-📍 Metro Manila, Philippines
+**she/her** • 🎓 Economics + Data Science @ UC San Diego  • 📍 Metro Manila, Philippines
 
-[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ffe4e1?style=flat-square&logo=notion&logoColor=white)](https://skvillamin.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c1e1c1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/skvillamin)
-[![GitHub](https://img.shields.io/badge/-GitHub-eac4d5?style=flat-square&logo=github&logoColor=white)](https://github.com/skvillamin)
+Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human.
+I specialize in data analysis, visual storytelling, and predictive modeling.
+My goal is to blend economics, design, and data science to turn raw data into meaningful, actionable insights.
 
----
 
-## 💫 About Me
-
-Hi! I’m Katelyn — I love making data feel more human ✨  
-I specialize in **data analysis**, **visual storytelling**, and **predictive modeling**, with a focus on projects that bridge **economics**, **design**, and **data science**.
-
----
-
-## ✨ Skills & Tools
+### ✨ Skills & Tools
 
 ```bash
 # 🌸 Languages & Tools
@@ -36,26 +26,24 @@ EDA • Clustering • Predictive Modeling • Visualization
 English • Filipino • Chinese • Korean
 
 ```
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-### 🎀 [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)  
-Developed clustering model (K-Means, Hierarchical) to group mall customers by spending behavior; visualized insights in
+**🛍️ [Mall Customer Segmentation](https://github.com/skvillamin/mall-customer-segment)**  
+Developed clustering model (K-Means) to group mall customers by spending behavior; visualized insights in
 Tableau to inform targeted marketing.
 
 
-### 🌿 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)  
+**🧠 [Gamified Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)**
 Analyzed biometric data (ECG, brain waves) across two user groups; ranked Top 10% for data
 visualization & clarity.
 
-### 🍓 [Airbnb Price Prediction](https://github.com/skvillamin/airbnb-prices/tree/main)  
+**🏠 [Airbnb Price Prediction](https://github.com/skvillamin/airbnb-prices/tree/main)**  
 Built a pipeline to predict Airbnb prices in NYC; improved RMSE by 21% using engineered features
 and ensemble models. Ranked 7/109
 
 👉 [See more projects here](https://skvillamin.github.io/portfolio/projects/index.html)
 
----
-
-## 🌱 GitHub Stats
+### 🌱 GitHub Stats
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=skvillamin&show_icons=true&theme=rose_pine&icon_color=FFC0CB&title_color=FFB6C1&text_color=92A1B2&bg_color=fffafa&border_color=ffe4e1" 
@@ -78,7 +66,7 @@ and ensemble models. Ranked 7/109
   />
 </p>
 
-## 🐍 My Contributions
+### 🐍 My Contributions
 
 <div align="center">
   <picture>
@@ -90,13 +78,17 @@ and ensemble models. Ranked 7/109
 
 ---
 
-## 🍵 When I'm Not Coding
+### 🍵 When I'm Not Coding
 
 🎮 FPS & MOBA gamer (CS, Dota 2, Assassin’s Creed)  
 🎧 Singing, piano, and K-pop  
 ✍️ Journaling & language learning (中文, 한국어)
 
----
+### Connect with Me
+[![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ffe4e1?style=flat-square&logo=notion&logoColor=white)](https://skvillamin.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-c1e1c1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/skvillamin)
+[![GitHub](https://img.shields.io/badge/-GitHub-eac4d5?style=flat-square&logo=github&logoColor=white)](https://github.com/skvillamin)
 
 <div align="center">
 
