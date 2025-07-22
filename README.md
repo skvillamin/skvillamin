@@ -5,8 +5,8 @@
 
 # 🌸 Katelyn Villamin
 
-**she/her** ・ 🎓 B.A. Economics, Minor in Data Science  
-📍 UC San Diego Alumna ・ 🇵🇭 Filipino  
+**she/her** ・ 🎓 B.A. Economics, Minor in Data Science  @ UC San Diego
+・ 📍 Metro Manila, Philippines
 
 [![Email](https://img.shields.io/badge/-Email-ffc0cb?style=flat-square&logo=gmail&logoColor=white)](mailto:work.skvillamin@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-ffe4e1?style=flat-square&logo=notion&logoColor=white)](https://skvillamin.github.io/portfolio)
