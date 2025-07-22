@@ -5,7 +5,7 @@
 
 ## 🌸 Katelyn Villamin 
 
-**she/her** • 🎓 Economics + Data Science @ UC San Diego  • 📍 Metro Manila, Philippines
+**she/her** • 🎓 **Economics + Data Science Graduate @ UC San Diego**  • 📍 **Metro Manila, Philippines**
 
 Hi! I’m Katelyn, a recent UC San Diego graduate who loves making data feel more human.
 I specialize in data analysis, visual storytelling, and predictive modeling.
